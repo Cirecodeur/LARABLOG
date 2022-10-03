@@ -1,0 +1,13 @@
+Comment (commentaire): 'author_name', 'author_email', 'author_url', 'body', 'post_id'
+
+Post (article) 'title', 'slug', 'excerpt', 'body', 'published_at', 'image', 'category_id'
+
+Category (categorie) : 'title', 'slug'
+
+User (utilisateur) 'name', 'email', 'password', 'slug', 'bio'
+
+Tag : 'name', 'slug',
+
+Role 
+
+Permission
