@@ -35,11 +35,13 @@
                     </div><!-- /.row -->
                 </div><!-- /.container-fluid -->
             </div>
-            
             <!-- Main content -->
         <section class="content">
             @yield('content')
         </section>
+        </div>
+            
+            
         
         <!-- /.content-wrapper -->
         <footer class="main-footer">
